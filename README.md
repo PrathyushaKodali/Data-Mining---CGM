@@ -2,6 +2,8 @@
 Data Mining CSE 572 Project - Individual
 
 Data Mining Project - Cell Glucose Monitoring (CGM) Prediction Models
+
+
 This project applies data mining and machine learning techniques on real-time glucose levels
 obtained from Cell Glucose Monitoring (CGM) sensors of 5 different subjects to identify patterns,
 recognize if the CGM data is recorded while taking the meal and segment the data based on
